@@ -43,11 +43,7 @@ I'm Nitin Kumar Pandey, a passionate Full-Stack Developer with a knack for creat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitinTheGreat&show_icons=true&theme=tokyonight" alt="Nitin's GitHub Stats" />
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinTheGreat&theme=tokyonight&hide_border=true" alt="Nitin's GitHub Streak Stats" />
 
-
-  <img src="https://streak-stats.demolab.com?user=NitinTheGreat&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Nitin's GitHub Streak" />
 
 </p>
 
