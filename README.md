@@ -47,9 +47,7 @@ I'm Nitin Kumar Pandey, a passionate Full-Stack Developer with a knack for creat
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinTheGreat&layout=compact&theme=tokyonight" alt="Nitin's Top Languages" />
-</p>
+
 
 ## 🌟 Featured Projects
 
