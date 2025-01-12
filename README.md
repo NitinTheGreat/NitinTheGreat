@@ -16,6 +16,23 @@
 
 I'm Nitin Kumar Pandey, a passionate Full-Stack Developer with a knack for creating innovative solutions. I thrive on challenges and continuously expand my skill set to stay at the forefront of technology.
 
+## 🏅 GitHub Metrics
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinTheGreat&theme=tokyonight" alt="Nitin's GitHub Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NitinTheGreat&theme=tokyonight" alt="Nitin's Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NitinTheGreat&theme=tokyonight" alt="Nitin's Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NitinTheGreat&theme=tokyonight" alt="Nitin's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NitinTheGreat&theme=tokyonight" alt="Nitin's Productive Time" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -27,6 +44,9 @@ I'm Nitin Kumar Pandey, a passionate Full-Stack Developer with a knack for creat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitinTheGreat&show_icons=true&theme=tokyonight" alt="Nitin's GitHub Stats" />
  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinTheGreat&theme=tokyonight&hide_border=true" alt="Nitin's GitHub Streak Stats" />
+
+
   <img src="https://streak-stats.demolab.com?user=NitinTheGreat&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Nitin's GitHub Streak" />
 
 </p>
@@ -64,23 +84,6 @@ I'm Nitin Kumar Pandey, a passionate Full-Stack Developer with a knack for creat
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinTheGreat&theme=react-dark" alt="Nitin's Contribution Graph" />
-</p>
-
-## 🏅 GitHub Metrics
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinTheGreat&theme=tokyonight" alt="Nitin's GitHub Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NitinTheGreat&theme=tokyonight" alt="Nitin's Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NitinTheGreat&theme=tokyonight" alt="Nitin's Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NitinTheGreat&theme=tokyonight" alt="Nitin's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NitinTheGreat&theme=tokyonight" alt="Nitin's Productive Time" />
 </p>
 
 
