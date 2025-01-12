@@ -63,7 +63,8 @@ I'm Nitin Kumar Pandey, a passionate Full-Stack Developer with a knack for creat
 </p>
 <p align="center">
   <a href="https://github.com/NitinTheGreat/Riviera-2025-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NitinTheGreat&repo=Riviera-2025-Website&theme=tokyonight" alt="Riviera 2025 Website" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NitinTheGreat&repo=riviera2025-frontend
+&theme=tokyonight" alt="Riviera 2025 Website" />
   </a>
 </p>
 
