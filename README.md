@@ -5,6 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Innovating+One+Commit+at+a+Time;Let's+Build+the+Future+Together)](https://git.io/typing-svg)
 
 </div>
+<img src="assets/code.gif" />
 
 <p align="center">
   <a href="https://linkedin.com/in/nitinkrpandey"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
